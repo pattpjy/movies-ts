@@ -1,6 +1,8 @@
-- starter kit - create react with vite
+- starter kit - create react with vite + typescript
 - add image folders from the challenge packet to the project
 - push to github using vsc built-in function
 - set up readme -project board
 - check Api and key in postman, understanding the return data
 - drafting architecture - App handling routes, Home has all movies, each movies will be route to endpoint with ID( useLocation), need to create components for filter and search for future use
+- add CICD pipeline to capture deployment issue - deploy wit vercel
+- add react router npm install react-router-dom localforage match-sorter sort-by
